@@ -1,0 +1,15 @@
+C:\WorkProjects\GetColorSolver\GetColorSolver\bin\Debug\net6.0\GetColorSolver.exe
+C:\WorkProjects\GetColorSolver\GetColorSolver\bin\Debug\net6.0\GetColorSolver.deps.json
+C:\WorkProjects\GetColorSolver\GetColorSolver\bin\Debug\net6.0\GetColorSolver.runtimeconfig.json
+C:\WorkProjects\GetColorSolver\GetColorSolver\bin\Debug\net6.0\GetColorSolver.dll
+C:\WorkProjects\GetColorSolver\GetColorSolver\bin\Debug\net6.0\GetColorSolver.pdb
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\GetColorSolver.csproj.AssemblyReference.cache
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\GetColorSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\GetColorSolver.AssemblyInfoInputs.cache
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\GetColorSolver.AssemblyInfo.cs
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\GetColorSolver.csproj.CoreCompileInputs.cache
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\GetColorSolver.dll
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\refint\GetColorSolver.dll
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\GetColorSolver.pdb
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\GetColorSolver.genruntimeconfig.cache
+C:\WorkProjects\GetColorSolver\GetColorSolver\obj\Debug\net6.0\ref\GetColorSolver.dll
